@@ -1,11 +1,11 @@
 # Le site dont vous êtes le héros
 
-URL du site : http://votre-url-ici.com
+URL du site : https://escapetotheocean.netlify.com
 
 ### Groupe
 
-- Prénom & Nom
-- Prénom & Nom
+- Lucas Benhayoun
+- Xavier MediaVilla Diez
 
 ### Grille d'auto-évaluation
 
@@ -197,7 +197,7 @@ Notes :
 
 | Type  | Objectif | Fait ? | 
 | ----- | -------- | ------ |
-| Setup | Le repository respecte la nomenclature `w1p2021-hero-amsellem-calou`, avec tous les noms des membres, et les membres sont cités dans le README.md | - |
+| Setup | Le repository respecte la nomenclature `w1p2021-hero-amsellem-calou`, avec tous les noms des membres, et les membres sont cités dans le README.md | oui |
 | Setup | Le site est en ligne, et l'URL est citée dans le README.md | - |
 | Setup | Le site utilise VueJS | - |
 | Setup | Cloner le repository et exécuter `npm install` puis `npm run dev` s'effectue sans encombre | - |
