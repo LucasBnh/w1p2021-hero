@@ -1,26 +1,17 @@
 <template>
   <div class="big-header">
-    <h1>{{ message }}</h1>
+    <h1>ESCAPE TO THE OCEAN!</h1>
+    <h2>{{ message }}</h2>
     <br />
-    <router-link class="button" to="/page">Go to Page</router-link>
-    <br />
-    <button class="button" @click="handleClick">Click me up</button>
+    <router-link class="button" to="/characters">Start</router-link>
   </div>
 </template>
-
 <script>
-import countService from '../services/countService';
-
 export default {
   data() {
     return {
-      message: 'Hello Hetic'
+      message: '5 years trapped in a fish tank, away from your family, makes you want to try everything to escape right ? Will you be able to make your fish escape and find his fish bank back ?'
     };
-  },
-  methods: {
-    handleClick() {
-      countService.increment();
-    }
   }
 };
 </script>
